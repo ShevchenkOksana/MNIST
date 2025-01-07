@@ -1,0 +1,10 @@
+MNIST Classification using Deep Learning
+This project focuses on classifying the MNIST dataset using deep learning. A Convolutional Neural Network (CNN) was used for this task, with experiments on different architectures and hyperparameters.
+
+Key Achievements:
+Implemented functions for training (train_one_epoch) and evaluation (evaluate).
+Built and tested a CNN architecture for image classification.
+Achieved 98% accuracy on the test set after tuning the model.
+Experimented with various architectures and hyperparameters for improved performance.
+Technologies Used:
+Python, PyTorch (or TensorFlow), Jupyter Notebook, Google Colab.
